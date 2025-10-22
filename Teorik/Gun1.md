@@ -1,4 +1,4 @@
-# Gün 1
+# Gün 1 08/10/2025
 ## Ön Bilgiler
 - Yök başkanının açıklaması ile başladı.
 - Modüllerin açıklaması yapıldı.
