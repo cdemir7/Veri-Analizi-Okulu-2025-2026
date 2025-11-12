@@ -7,4 +7,4 @@
 
 
 # Teorik Ders Başlangıcı
-
+- Veri, sayı cinsinden temsil edilmiş özelliklerdir.
