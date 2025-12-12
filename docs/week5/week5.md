@@ -1,12 +1,8 @@
-# Gün 1 22/10/2025
+# 22/10/2025
 ## Ön Bilgiler
 - Oluşturulan portalda derse giriş yapanlar dersi tekrar izleyebilecek.
 - Veri analizi portalına duyurlar kısmı eklendi. Buradan takip edilebilecek.
 - Veri analizi portalında "Kurs Seçimi" kısmı eklendi. Burada değiştirme ekleme gibi işlemler yapılacak.
-
-## Deneyler
-- 
-- 
 
 # Teorik Ders Başlangıcı
 - TGSS veri setinin tanıtımı:

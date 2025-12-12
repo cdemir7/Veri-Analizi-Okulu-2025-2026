@@ -1,2 +1,5 @@
 .venv/
 data/
+.ipynb_checkpoints
+reports/
+git-message.png

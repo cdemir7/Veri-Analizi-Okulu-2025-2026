@@ -1,7 +1,5 @@
-# Gün 1 22/10/2025
+# 22/10/2025
 ## Ön Bilgiler
--
--
 -
 
 # Teorik Ders
