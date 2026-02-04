@@ -1,4 +1,4 @@
-# Week 4 – [SPSS'e Giriş] - 22/10/2025
+# Week 4 – [SPSS'e Giriş] - 05/11/2025
 
 ## 1) Ders Notları
 - SPSS 2 farklı arayüz bulunur: 
@@ -25,12 +25,10 @@
 - Sadece sayısal değişkenler için sayısal dağılımına bakmak için Analyze/Descriptive Statistics/Descriptives ile yapabiliriz. 
 
 ## 2) Kod / Komutlar
-- Kısa kod parçaları:
-  ```python
-  # örnek kod
+
 
 ## 3) Bağlantılar / Kaynaklar
-- [Link] - [kısa not]
+
 
 ## 4) Açık Sorular / Yapılacaklar
-- [Soru veya görev]
+
