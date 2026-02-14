@@ -1,8 +1,7 @@
-# Week N – [Konu Başlığı] - 08/10/2026
+# Week 15 – [Konu Başlığı] - 14/02/2026
 
 ## 1) Ders Notları
-- [Kısa paragraflar veya maddeler]
-- [Örnek formüller/komutlar]
+
 
 ## 2) Kod / Komutlar
 - Kısa kod parçaları:
